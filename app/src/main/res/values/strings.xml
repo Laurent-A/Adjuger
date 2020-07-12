@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Adjugé</string>
+    <string name="view_pseudo">Pseudo :</string>
+    <string name="view_enchere">Plafond d\'enchère :</string>
+
+    <string-array name="valeur_enchere">
+        <item>Valeur</item>
+        <item>X2</item>
+        <item>X3</item>
+        <item>X4</item>
+        <item>X5</item>
+    </string-array>
+    <string name="view_switch">plafond illimité !</string>
+    <string name="view_switch_off">plafond limité, laché les chevaux ?</string>
+    <string name="view_button_parametre">Enregistrer paramètre</string>
+    <string name="chargement">Chargement en cours...</string>
+</resources>
